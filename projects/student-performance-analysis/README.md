@@ -119,3 +119,13 @@ Visualizations help identify patterns, but conclusions should be supported by ap
 - Day 2: Data Cleaning & Grouped Analysis ✅
 - Day 3: Exploratory Data Analysis & Correlation ✅
 - Day 4: EDA Visualization & Outlier Analysis ✅
+
+## Folder structure
+
+```text
+student-performance-analysis/
+├── data/        # student_performance.csv
+└── notebooks/   # day-01 to day-04 (analysis, cleaning, EDA, visualization)
+```
+
+Notebooks read the data via the relative path `../data/student_performance.csv`, so run them from the `notebooks/` folder.

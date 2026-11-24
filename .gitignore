@@ -4,11 +4,16 @@
 # Python
 __pycache__/
 *.pyc
-
-# Virtual environments
 .venv/
 venv/
+.env
 
-# OS files
+# Large/generated data
+*.npy
+*.parquet
+
+# OS / editor
 .DS_Store
 Thumbs.db
+.vscode/
+.idea/
