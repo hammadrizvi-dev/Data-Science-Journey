@@ -24,8 +24,7 @@
 | Topic | Folder |
 |---|---|
 | NumPy | [`notebooks/numpy`](notebooks/numpy) |
-| Pandas | [`notebooks/pandas`](notebooks/pandas) |
-| Visualization (Matplotlib, Seaborn, Plotly; IPL and India census data) | [`notebooks/visualization`](notebooks/visualization) |
+| Visualization (Matplotlib, Seaborn; IPL data) | [`notebooks/visualization`](notebooks/visualization) |
 | Practice sessions | [`notebooks/practice`](notebooks/practice) |
 
 ## 🗂️ Structure
@@ -34,8 +33,6 @@
 Data-Science-Journey/
 ├── projects/    # End-to-end projects, each with its own README and data
 ├── notebooks/   # Topic-wise learning notebooks
-├── archive/     # Old scratch notebooks (kept for history)
-├── docs/
 └── requirements.txt
 ```
 
